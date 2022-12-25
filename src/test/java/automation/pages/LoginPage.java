@@ -26,5 +26,8 @@ public class LoginPage extends BasePage {
     @FindBy(css = ".login-link-forgot-pass")
     public WebElement ForgotPassword;
 
+//    @FindBy(css = ".login-link-forgot-pass")
+//    public WebElementPassword;
+
 
 }
